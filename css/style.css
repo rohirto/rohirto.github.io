@@ -95,6 +95,7 @@ ul.social-links li.label {
   font-size: 20px;
   opacity: 0.6;
   font-weight: 400;
+  color: #222;
 }
 ul.social-links li a:hover {
   opacity: 1;
